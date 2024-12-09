@@ -3,7 +3,7 @@
 Запуск Docker-контейнера welcome-to-docker з мапуванням порту 8080:80 та завантаженням образу.
 
 <p align="center">
-<img src="Screenshots/(1).png" alt="(1)"/>
+<img src="Screenshots/ (1).png" alt="(1)"/>
 </p>
 
 Вітальне повідомлення про успішний запуск першого контейнера.
